@@ -5,3 +5,4 @@ My name is Rachel Leidich and I am a Junior at Lehigh University majoring in jou
 I am using this site for my data journalism class. 
 
 Please visit my [linkedin!](https://www.linkedin.com/in/rachel-leidich-886365212/)
+
