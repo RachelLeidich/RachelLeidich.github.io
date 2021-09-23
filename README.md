@@ -20,4 +20,4 @@ Here is an infographic made with [data](https://oirsa.lehigh.edu/sites/oirsa.leh
 # What social media platform is most popular among teens? 
 Here is an infographic made with [data](https://www.statista.com/statistics/250172/social-network-usage-of-us-teens-and-young-adults/) from statista that highlights what social media platform is most popular among teens. 
 
-![What social media platform is most popular among teens]
+![What social media platform is most popular among teens](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Social%20Media%20Infographic%20.png?raw=true)
