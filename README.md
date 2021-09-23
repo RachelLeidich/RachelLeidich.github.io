@@ -11,7 +11,7 @@ Please visit my [linkedin!](https://www.linkedin.com/in/rachel-leidich-886365212
 ![me](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/headshot%202.jpg?raw=true)
 
 
-#Where do Lehigh undergraduates live? 
-Here is a inforgaphic made from data from information from Lehigh Universtiy Office of Institutional Research and Strategic Analytics. This information lays out where on campus undergraduate students live.  
+# Where do Lehigh undergraduates live? 
+Here is a infographic made with data from Lehigh Universtiy Office of Institutional Research and Strategic Analytics. This information explains where undergraduate students live. 
 
 ![Where do undergraduates live at Lehigh University](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Undergraduate%20enrollment%20(Instagram%20Post)-3.png?raw=true)
