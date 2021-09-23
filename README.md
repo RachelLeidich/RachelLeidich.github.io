@@ -9,3 +9,6 @@ I am using this site for my Data Journalism class and am looking forward to expl
 Please visit my [linkedin!](https://www.linkedin.com/in/rachel-leidich-886365212/)
 
 ![me](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/headshot%202.jpg?raw=true)
+
+
+![Where do underdrdauates live at Lehigh University]https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Undergraduate%20enrollment%20(Instagram%20Post)-3.png?raw=true
