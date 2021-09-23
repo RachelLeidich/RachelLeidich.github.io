@@ -18,6 +18,6 @@ Here is an infographic made with [data](https://oirsa.lehigh.edu/sites/oirsa.leh
 
 
 # What social media platform is most popular among teens? 
-Here is an infographic made with [data](https://www.statista.com/statistics/250172/social-network-usage-of-us-teens-and-young-adults/) from statista that highlights what social media platform is most popular among teens. 
+Here is an infographic made with [data](https://www.statista.com/statistics/250172/social-network-usage-of-us-teens-and-young-adults/) from Statista that highlights what social media platform is most popular among teens. This data set lists the most popular social media sights from 2012 to 2020. I focused my data on the most popular social media platforms in 2020 because that is the most prevalent information at this time. The data shows that Snapchat is the most popular platform. It also gives key information about the relatively new app Tik Tok which was created in 2016 and gained popularity in 2020 becoming the second most popular platform. It also shows that Instagram which was created in 2010 is the third most popular platform.
 
 ![What social media platform is most popular among teens](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Social%20Media%20Infogram%202%20.png?raw=true)
