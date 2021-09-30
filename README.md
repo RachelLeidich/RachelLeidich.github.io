@@ -29,4 +29,4 @@ Here is a quick overview of the Lehigh-Lafayette rivalry.
 
 
 # A look into the History of the Coca-Cola Company
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1m7FSE0JlviMhEJRGqYX_A1SCpDOroU_7I5tg_7U8dM4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NSHJXXAyqwiOopu1dZfyeea90O8HpGN-KrhvclWvnEs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
