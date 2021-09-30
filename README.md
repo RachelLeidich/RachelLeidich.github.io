@@ -25,8 +25,9 @@ Here is an infographic made with [data](https://www.statista.com/statistics/2501
 
 # Lehigh-Lafayette Rivalry Timeline 
 Here is a quick overview of the Lehigh-Lafayette rivalry. 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cn4fdhjKFFLQiuOqZiVtPLDdtPx-vTwQ1LS5OK8IOcg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eXOSoVq2P1wmI7PrgTTj1kOd7vgkLAPZRLc1nmvoMjw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
 # A look into the History of the Coca-Cola Company
+A timeline of the Coca-Cola Company
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NSHJXXAyqwiOopu1dZfyeea90O8HpGN-KrhvclWvnEs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
