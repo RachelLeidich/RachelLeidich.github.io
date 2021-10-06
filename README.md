@@ -24,10 +24,10 @@ Here is an infographic made with [data](https://www.statista.com/statistics/2501
 ![What social media platform is most popular among teens](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Social%20Media%20Infogram%202%20.png?raw=true)
 
 # Lehigh-Lafayette Rivalry Timeline 
-Here is a quick overview of the Lehigh-Lafayette rivalry. 
+Here is a quick overview of the Lehigh-Lafayette rivalry where the most important games are highlighted and the rivalry is explained through dates.  
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eXOSoVq2P1wmI7PrgTTj1kOd7vgkLAPZRLc1nmvoMjw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
 # A look into the History of the Coca-Cola Company
-A timeline of the Coca-Cola Company
+Here is a timeline of the Coca-Cola Company higlihgitng major milestones of the company. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NSHJXXAyqwiOopu1dZfyeea90O8HpGN-KrhvclWvnEs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
