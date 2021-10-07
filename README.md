@@ -24,18 +24,19 @@ Here is an infographic made with [data](https://www.statista.com/statistics/2501
 ![What social media platform is most popular among teens](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Social%20Media%20Infogram%202%20.png?raw=true)
 
 # Lehigh-Lafayette Rivalry Timeline 
-Here is a quick overview of the Lehigh-Lafayette rivalry where the most important games are highlighted and the rivalry is explained through dates.  
+Here is a quick overview of the Lehigh-Lafayette rivalry where the most important games are highlighted and the rivalry is explained through dates. This timeline shows that the first Lehigh-Lafayette game took place October 25, 1884. It also explains how the COVID-19 pandemic paused the 124 year year rivalry.  
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eXOSoVq2P1wmI7PrgTTj1kOd7vgkLAPZRLc1nmvoMjw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
 # A look into the History of the Coca-Cola Company
-Here is a timeline of the Coca-Cola Company highlighting major milestones of the company. 
+Here is a timeline of the Coca-Cola Company highlighting major milestones of the company. This timeline details when different drinks were created and shows how the Coca-Cola Company grew into the huge corporation it is today. It points out that the Coca-Cola drink was created in 1886 by pharmacist, John Pemberton and that the frist diet Coca-Cola was created in 1963. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NSHJXXAyqwiOopu1dZfyeea90O8HpGN-KrhvclWvnEs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Lehigh 2019 Undergraduate Enrollment by College 
-Here is a bar chart created using Chartbuilder showing Lehigh's undergraduate enrollment by college in 2019. Original data can be accessed [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf). 
+Here is a bar chart created using Chartbuilder showing Lehigh's undergraduate enrollment by college in 2019. Original data can be accessed [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf). This graph shows that there are the most students enrolled in Arts & Sciences with 36.6% of students.It also explains that only .7% of students are in Arts/Engineering.  
 ![Undergraduate Enrollment 2019](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Final_Lehigh_2019_Undergraduate_Enrollment_by_College__2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
 # Top 10 Most Populated Cities in the US in 2020
-Here is a bar chart created using Chartbuilder showing the top 10 most populated cities in the US during 2020. Original data can be accessed [here](https://worldpopulationreview.com/us-cities)
+Here is a bar chart created using Chartbuilder showing the top 10 most populated cities in the US during 2020. Original data can be accessed [here.](https://worldpopulationreview.com/us-cities)This data shows that New York, NY has the biggest population of any city in the US with 8.62 million people. It also highlights that three of the top 10 most populated cities in the US are in California. 
+
 ![Top 10 Most Populated Cities in the US in 2020](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Top_10_Most_Populated_Cities_in_the_US_in_2020_Population_chartbuilder.png?raw=true)
