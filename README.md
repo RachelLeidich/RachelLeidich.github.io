@@ -34,5 +34,5 @@ Here is a timeline of the Coca-Cola Company higlihgitng major milestones of the 
 
 # Lehigh 2019 Undergraduate Enrollment by College 
 Here is a bar chart created using Chartbuilder showing Lehigh's undergraduate enrollment by college in 2019. Original data can be accessed [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf). 
-[Undergraduate Enrollment 2019](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Lehigh_2019_Undergraduate_Enrollment_by_College__2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+![Undergraduate Enrollment 2019](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Lehigh_2019_Undergraduate_Enrollment_by_College__2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
