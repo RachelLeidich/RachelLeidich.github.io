@@ -36,3 +36,6 @@ Here is a timeline of the Coca-Cola Company highlighting major milestones of the
 Here is a bar chart created using Chartbuilder showing Lehigh's undergraduate enrollment by college in 2019. Original data can be accessed [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf). 
 ![Undergraduate Enrollment 2019](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Final_Lehigh_2019_Undergraduate_Enrollment_by_College__2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
+# Top 10 Most Populated Cities in the US in 2020
+Here is a bar chart created using Chartbuilder showing the top 10 most populated cities in the US during 2020. Original data can be accessed [here](https://worldpopulationreview.com/us-cities)
+![Top 10 Most Populated Cities in the US in 2020](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Top_10_Most_Populated_Cities_in_the_US_in_2020_Population_chartbuilder.png?raw=true)
