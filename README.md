@@ -40,3 +40,8 @@ Here is a bar chart created using Chartbuilder showing Lehigh's undergraduate en
 Here is a bar chart created using Chartbuilder showing the top 10 most populated cities in the US during 2020. Original data can be accessed [here.](https://worldpopulationreview.com/us-cities)This data shows that New York, NY has the largest population of any city in the US with 8.62 million people. It also highlights that three of the top 10 most populated cities in the US are in California. 
 
 ![Top 10 Most Populated Cities in the US in 2020](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Top_10_Most_Populated_Cities_in_the_US_in_2020_Population_chartbuilder.png?raw=true)
+
+# Lehigh's Institutional Profile from 2017-2021
+The chart was made with cahrtbuilder using data that can be accessed [here](https://oirsa.lehigh.edu/university-profile).
+
+![Lehigh's Instiutional Proile from 2017-2021](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Lehigh's_Institutional_Profile_from_2017-2021_Arts_&_Sciences_Business_Engineering_&_Appl._Sci_chartbuilder.png?raw=true)
