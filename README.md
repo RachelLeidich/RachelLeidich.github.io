@@ -50,3 +50,6 @@ The chart was made with chartbuilder using data that can be accessed [here](http
 This chart was made with chartbuilder using data that can be accessed [here](https://ourworldindata.org/happiness-and-life-satisfaction).
 
 ![Life Satisfaction in Cantril Ladder vs GDP per capita, 2017](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/Life_Satisfaction_in_Cantril_Ladder_vs_GDP_per_capita,_2017_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder-2.png?raw=true)
+
+# National Norms for ACT Test Scores 
+This chart was made with chartbuilder using data that can be accessed [here](https://www.act.org/content/dam/act/unsecured/documents/MultipleChoiceStemComposite.pdf). The motivation behind finding this data is the importance of understanding composite ACT scores and how well students are performing. This data illustrates the national rank for a certain ACT score. This means that 53% of recent high school graduates who took the ACT achieved a Composte score of 20 or bellow. This information is important because the reader can pay attention to national averages which gives them a solid understanding of how scores range especially with lower scores. 
