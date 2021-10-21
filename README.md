@@ -56,3 +56,6 @@ This chart was made with chartbuilder using data that can be accessed [here](htt
 
 ![ACT Score vs Composite Score](https://github.com/RachelLeidich/RachelLeidich.github.io/blob/main/ACT_Score_&_Composite_Score_(%25)_Composite_Score_(%25)_chartbuilder.png?raw=true)
 
+# 2019 World's Top 20 Cycling Cities 
+Here is a map of the top 20 cities for cycling in 2019 ranked by wired. For more information,click [here](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/.). 
+![2019 World's Top 20 Cycling Cities](<iframe src="https://www.google.com/maps/d/embed?mid=13D76FRPAPJmSfjRt1uqp3BhhBuAs2dS8" width="640" height="480"></iframe>)
