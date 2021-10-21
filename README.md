@@ -60,3 +60,7 @@ This chart was made with chartbuilder using data that can be accessed [here](htt
 Here is a map of the top 20 cities for cycling in 2019 ranked by wired. For more information,click [here](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/.). 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=13D76FRPAPJmSfjRt1uqp3BhhBuAs2dS8" width="640" height="480"></iframe>
+
+# Top 10 Largest Music Festivals Around the World
+Here is a map of the top 10 largest music festivals around the world. This information is important because music is essential to different cultures and represents the community present around the world. The most interesting takeaway from this map is that 2 of the 10 largest music festivals take place in New Orleans, Louisiana. Essence one of the music festivals in New Orleans, Louisiana is one of the largest music festivals of African-American culture in the United States. This information is relevant because music is important to understanding cultures and this map points out where the largest celebrations of music are held and you can see that music is a universal language. 
+<iframe src="https://www.google.com/maps/d/embed?mid=1G1QnIoUni7YKDUXjMtD5wKo6qTV2Panh" width="640" height="480"></iframe>
