@@ -33,7 +33,8 @@ Here is a quick overview of the Lehigh-Lafayette rivalry where the most importan
 
 
 # A look into the History of the Coca-Cola Company
-Here is a timeline of the Coca-Cola Company highlighting major milestones of the company. This timeline details when different drinks were created and shows how the Coca-Cola Company grew into the huge corporation it is today. It points out that the Coca-Cola drink was created in 1886 by pharmacist John Pemberton and that the first diet Coca-Cola was created in 1963. 
+Here is a timeline of the Coca-Cola Company highlighting major milestones of the company. This timeline details when different drinks were created and shows how the Coca-Cola Company grew into the huge corporation it is today. It points out that the Coca-Cola drink was created in 1886 by pharmacist John Pemberton and that the first diet Coca-Cola was created in 1963. Information was taken from Coca-Cola's website which can be accessed [here](https://www.coca-colacompany.com/company/history). 
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NSHJXXAyqwiOopu1dZfyeea90O8HpGN-KrhvclWvnEs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Lehigh 2019 Undergraduate Enrollment by College 
